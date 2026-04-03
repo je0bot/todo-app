@@ -5,6 +5,12 @@ It allows users to add, view, and manage tasks.
 
 ---
 
+## 📌 Description
+
+This is a beginner-friendly CLI todo app built to practice Python fundamentals and Git workflow.
+
+---
+
 ## 🚀 Features
 
 - Add new tasks  
